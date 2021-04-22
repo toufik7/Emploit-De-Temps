@@ -1,3 +1,20 @@
+### Introduction : 
+Dans le cadre du mini projet développement web, on souhaite réaliser une application webpour la gestion des emplois du temps et des salles. 
+Conditions de réalisation :
+Chaque groupe est constitué de deux ou trois étudiants.
+### Travail réalisé :
+## Design :
+## Description de l’application :
+L’application répond aux besoins suivants :
+1.	Accès facile, rapide et simple aux informations, La saisie des informations d’une nouvelle séance, d’un enseignant, un groupe, un module, etc. 
+2.	 Modification des informations qui concernent l’enseignent, groupe, module, salle, etc. 
+3.	 Affichage : l’emploie de temps pour un niveau sélectionné.
+4.	 Suppression : suppression d’une séance, enseignent, groupe, module, salle, etc.
+### Technologies : 
+## Font-end :  HTML5, CSS3, Javascript, JQuery . 
+## Back-end : Laravel
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
