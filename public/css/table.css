@@ -1,0 +1,55 @@
+.emploit table {
+  background-color: white;
+
+}
+
+.emploit tr {
+  height: 40px;
+}
+
+
+
+
+
+
+h1{
+  text-align: center;
+}
+
+
+.emploit td:hover {border: 1px solid #2ECC71;}
+.emploit td:hover #temps{color:#2ECC71;}
+.emploit td:hover #type{color:#2ECC71;}
+.emploit td:hover #mod{color:#2ECC71;}
+.emploit td:hover #sl{color:#2ECC71;}
+.emploit th{
+    
+    color: white;
+}
+#temps{
+  font-family: bold;
+  color: yellow;
+}
+#type{
+  font-family: bold;
+  color: #2ECC71;
+}
+#mod{
+  font-family: bold;
+  color: red;
+}
+#sl{
+  font-family: bold;
+  color: #C546FC;
+}
+p{
+  margin: 0;
+}
+a{
+  color: white;
+}
+a:hover{
+  color:#2ECC71;
+}
+
+

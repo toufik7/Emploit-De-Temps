@@ -1,0 +1,159 @@
+
+body, html {
+  background-color:#EBECF0;
+}
+
+body, p, input, select, textarea, button {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -0.2px;
+    font-size: 16px;
+}
+
+div, p {
+  color:#BABECC;
+  text-shadow: 1px 1px 1px white;
+}
+
+
+form {
+  padding: 16px;
+  width: 16px*20;
+  margin: 0 auto;
+}
+
+.segment {
+  padding: 16px*2 0;
+  text-align: center;
+}
+
+button, input {
+  border: 0;
+  outline: 0;
+  font-size: 16px;
+
+  padding: 16px 16px;
+  margin-top: 10px;
+  background-color:#EBECF0;
+  text-shadow: 1px 1px 0 white;
+  border-radius: 25px;
+  border: 2px solid #EBECF0;
+
+}
+
+label {
+  display: block;
+  margin-bottom: 16px*1.5;
+  width: 100%;
+}
+
+.input {
+  margin-left: 15%;
+  box-shadow:  inset 2px 2px 5px #BABECC, inset -5px -5px 10px #BABECC;
+  width: 70%;
+  box-sizing: border-box;
+  transition: all 0.2s ease-in-out;
+  appearance: none;
+ 
+
+ 
+}
+
+.input:focus{
+  margin-left: 15%;
+    box-shadow:  inset 2px 2px 5px #BABECC, inset -5px -5px 10px #BABECC;
+    width: 70%;
+    box-sizing: border-box;
+    transition: all 0.2s ease-in-out;
+    appearance: none;
+    box-shadow:  inset 1px 1px 2px#BABECC,
+     inset -1px -1px 2px white;
+}
+
+button {
+  color: rgb(151, 146, 146);
+  font-weight: bold;
+  box-shadow: -5px -5px 20px white,  5px 5px 20px #BABECC;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  padding: 2% 5%;
+  position: relative;
+  left : 40%;
+
+ 
+  }
+  
+ 
+  
+button:hover{
+    color: black;
+    font-weight: bold;
+    box-shadow: -5px -5px 20px white,  5px 5px 20px #BABECC;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    padding: 2% 5%;
+    position: relative;
+    left : 40%;
+    box-shadow: -2px -2px 5px white, 2px 2px 5px #BABECC;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  
+ 
+}
+.form{
+  width: 50%;
+  margin-top: 10%;
+  position: relative;
+  left: 25%;
+  box-shadow: -2px -2px 5px white, 2px 2px 5px #BABECC;
+}
+.footer{
+  position: relative;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.forget{
+  position: relative;
+  left: 70%;
+  color:#BABECC;
+  text-shadow: 1px 1px 1px white;
+  text-decoration: none;
+}
+.forget:hover{
+  position: relative;
+  left: 70%;
+  bottom: 5%;
+  color:#3d3d3d;
+  text-shadow: 1px 1px 1px rgb(27, 26, 26);
+  text-decoration: none;
+}
+.rememberme{
+  position: relative;
+  bottom: 0;
+  margin: 0;
+}
+.label{
+  margin-left: 15%;
+  margin-top: 15%;
+}
+.form-group{
+  width: 70%;
+  margin-left: 15%;
+}
+.card-header{
+ left: 20%;
+ color: black;
+ font-size: x-large;
+ margin-left: 42%;
+ margin-top: 10%;
+}
+.btn{
+  margin-top: 5%;
+  margin-right: 15%;
+}
