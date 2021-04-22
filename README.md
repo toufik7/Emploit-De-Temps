@@ -1,7 +1,5 @@
 ### Introduction : 
-Dans le cadre du mini projet développement web, on souhaite réaliser une application webpour la gestion des emplois du temps et des salles. 
-Conditions de réalisation :
-Chaque groupe est constitué de deux ou trois étudiants.
+Dans le cadre d'un mini projet développement web, on souhaite réaliser une application webpour la gestion des emplois du temps et des salles. 
 ### Travail réalisé :
 ## Design :
 ## Description de l’application :
